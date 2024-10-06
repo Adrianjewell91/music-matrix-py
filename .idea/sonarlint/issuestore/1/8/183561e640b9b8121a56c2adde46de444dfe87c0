@@ -1,11 +1,11 @@
 
-python:S6711C"DUse a "numpy.random.Generator" here instead of this legacy function.(æÙØ÷ûÿÿÿÿ8Çö÷ı2J$0f8454b4-dd9f-4e1e-a068-3bcd9dfe8913
-ipython:S125³"Remove this commented out code.(ú–†Æøÿÿÿÿ8Èö÷ı2J$0a2ab932-ffce-4e43-9f47-628b22463c28
-ipython:S125¸"Remove this commented out code.(Îôşıÿÿÿÿ8Èö÷ı2J$b2d78dcb-8434-4f91-8ff4-0530f769a9f8
-cpython:S125¾"Remove this commented out code.(¦Âöf8Èö÷ı2J$927bf56a-a5ee-4b67-b7bd-a025a504e83d
-dpython:S125Ã"Remove this commented out code.(Ê¥Ù»8Èö÷ı2J$2330d818-c5ac-452c-b644-881a7f65b730
-python:S1542Ë"IRename function "XOR" to match the regular expression ^[a-z_][a-z0-9_]*$.(…ÙÑá8Èö÷ı2J$bb507ea3-1a3b-4534-a655-a45b58cfc75e
-python:S6711ÿ"DUse a "numpy.random.Generator" here instead of this legacy function.(”Ã¹áøÿÿÿÿ8Ñ¼øı2J$61051e5b-50dd-4694-836d-dbd7940d12b0
-Špython:S6711€"DUse a "numpy.random.Generator" here instead of this legacy function.(™¦Àœ8Ñ¼øı2J$b5003c91-3438-4a3e-a873-0f45ea673b71
-Špython:S6711„"DUse a "numpy.random.Generator" here instead of this legacy function.(‹‡´İ8Ñ¼øı2J$38ff17df-72ab-4fc7-9b1d-7fcea5c37f80
-Špython:S6711…"DUse a "numpy.random.Generator" here instead of this legacy function.(É°8Ñ¼øı2J$6ce40362-7437-4874-a3bf-d1553c389354
+python:S6711C"DUse a "numpy.random.Generator" here instead of this legacy function.(æÙØ÷ûÿÿÿÿ8Çö÷ı2J$73b6ea57-1e20-4752-b8fb-02b5abd1251d
+ipython:S125³"Remove this commented out code.(ú–†Æøÿÿÿÿ8Èö÷ı2J$2f75b044-6d1a-4a89-9244-d4aac01d5004
+ipython:S125¸"Remove this commented out code.(Îôşıÿÿÿÿ8Èö÷ı2J$b2a17c32-9810-4f1a-90f9-38b9dbd09140
+cpython:S125¾"Remove this commented out code.(¦Âöf8Èö÷ı2J$a13f9359-6304-438c-92cb-4cebe85df6d9
+dpython:S125Ã"Remove this commented out code.(Ê¥Ù»8Èö÷ı2J$a48c79e0-41f1-45a6-a32f-bc2f8ed83abd
+python:S1542Ë"IRename function "XOR" to match the regular expression ^[a-z_][a-z0-9_]*$.(…ÙÑá8Èö÷ı2J$25ab5c73-cc86-40b5-93eb-aea2dcd3a287
+python:S6711ÿ"DUse a "numpy.random.Generator" here instead of this legacy function.(”Ã¹áøÿÿÿÿ8Ñ¼øı2J$b371e7b1-4c0a-48ad-ba8d-7a2e5d73bae9
+Špython:S6711€"DUse a "numpy.random.Generator" here instead of this legacy function.(™¦Àœ8Ñ¼øı2J$b8b175c2-5b4a-4882-93a2-63457a54e937
+Špython:S6711„"DUse a "numpy.random.Generator" here instead of this legacy function.(‹‡´İ8Ñ¼øı2J$b6e74d89-cd19-47b4-8922-afe3715fbd97
+Špython:S6711…"DUse a "numpy.random.Generator" here instead of this legacy function.(É°8Ñ¼øı2J$9a16c785-22c0-432c-9b5d-52da12529c89
