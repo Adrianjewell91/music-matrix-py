@@ -26,3 +26,9 @@ a
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+@
+nnmf/mcaffery.py,7/7/7753be0fbcbfe179093b2fbee94424543cb9f8f7
+T
+$nnmf/mcaffery_chopin_g_flat_etude.py,d/4/d4bb570909ea47159b5339be6ea6fa28b54c4566
+9
+	nnmf/test,2/9/29c4536572bf8ceaa983096123f83cc0665133e3
